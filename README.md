@@ -12,7 +12,7 @@ To ensure optimal performance of the AI and real-time features, the following ar
 
 ## 3. Installation Instructions
 1.  **Clone the Repository:**
-    `git clone https://github.com/vikasgurram26/AgriGrow-AI.git
+    https://github.com/PendurthiSridharshan/Agrigrow-Ai
 2.  **Install Dependencies:**
     `npm install`
 3.  **Environment Setup:** Ensure your `.env` file contains valid keys for `GEMINI_API_KEY` and Firebase configuration.
